@@ -2,22 +2,22 @@
   "name": "burger-api",
   "version": "1.0.0",
   "description": "My Burger Api",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/burger-api.git"
+    "url": "git+https://github.com/alok123github/burger-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/burger-api/issues"
+    "url": "https://github.com/alok123github/burger-api/issues"
   },
-  "homepage": "https://github.com/kubowania/burger-api#readme",
+  "homepage": "https://github.com/alok123github/burger-api#readme",
   "dependencies": {
-    "json-server": "^0.16.2"
+    "json-server": "^0.16.3"
   }
 }
